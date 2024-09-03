@@ -31,4 +31,12 @@ justify-content: center;
  img{
    height: 200px;
  }
- 
+ .categoria {
+   padding-left: 20xp; 
+   padding-right: 20xp;
+ }
+ .categoria-videos{
+   display: flex;
+   overflow-x: auto;
+   gap: 10xp;
+ }
