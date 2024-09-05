@@ -40,3 +40,15 @@ justify-content: center;
    overflow-x: auto;
    gap: 10xp;
  }
+ .categoria-videos img{
+  opacity: 1.0;
+  height: 3px;
+ }
+ .chamada-video img:hover{
+  opacity: 1.0;
+  border:3xp solid green;
+ }
+ .categoria hz{
+  color: rgb(42, 122, 228);
+ }
+ 
