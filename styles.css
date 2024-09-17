@@ -41,7 +41,7 @@ justify-content: center;
    gap: 10px;
  }
  .categoria-videos img{
-  opacity: 1.0;
+  opacity: 0.5;
   height: 200px;
  }
  .chamada-video img:hover{
